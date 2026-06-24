@@ -19,8 +19,8 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-.cabecalho-imagem{
-width: 10%;
+.cabecalho_imagem{
+width: 100;
 display: flex;
 justify-content: flex-start;
 align-items: center;
@@ -36,23 +36,6 @@ display: flex;
 justify-content: flex-end;
 width: 25%;
 padding-right: 30px;
-}
-.banner1{
-width: 100%;
-}
-
-banner1 img{
- width: 100%;
-height: 400px;
-object-fit: cover;
-display: block;
-}
-
-.banner-imagem{
-    width: 100%;
-    height: 400px;
-    object-fit: cover;
-    display: block;
 }
 
 .estudante_titulo{
