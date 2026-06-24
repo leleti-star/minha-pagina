@@ -7,8 +7,8 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #424e61;
-color: white;
+background-color: #202d42;
+color: rgb(23, 24, 85);
 width: 100%;
 padding: 20px;
 }
@@ -49,7 +49,7 @@ display: block;
 }
 
 .estudante_titulo{
-padding: 50px;
+padding: 100px;
 text-align: center;
 
 }
